@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "first_version_id": 2,
+    "second_version_id": 2,
+    "name": {
+      "english": "Venusaur",
+      "japanese": "フシギバナ",
+      "chinese": "妙蛙花",
+      "french": "Florizarre"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 80,
+      "Attack": 82,
+      "Defense": 83,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 2,
+    "first_version_id": 3,
+    "second_version_id": 3,
+    "name": {
+      "english": "Charizard",
+      "japanese": "リザードン",
+      "chinese": "喷火龙",
+      "french": "Dracaufeu"
+    },
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "base": {
+      "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Sp. Attack": 109,
+      "Sp. Defense": 85,
+      "Speed": 100
+    }
+  },
+  {
+    "id": 3,
+    "first_version_id": 3,
+    "second_version_id": 3,
+    "name": {
+      "english": "Blastoise",
+      "japanese": "カメックス",
+      "chinese": "水箭龟",
+      "french": "Tortank"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 79,
+      "Attack": 83,
+      "Defense": 100,
+      "Sp. Attack": 85,
+      "Sp. Defense": 105,
+      "Speed": 78
+    }
+  }
+]

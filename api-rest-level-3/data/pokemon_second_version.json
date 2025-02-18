@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "first_version_id": 1,
+    "third_version_id": null,
+    "name": {
+      "english": "Raichu",
+      "japanese": "ライチュウ",
+      "chinese": "雷丘",
+      "french": "Raichu"
+    },
+    "type": [
+      "Electric"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 90,
+      "Defense": 55,
+      "Sp. Attack": 90,
+      "Sp. Defense": 80,
+      "Speed": 110
+    }
+  },
+  {
+    "id": 2,
+    "first_version_id": 2,
+    "third_version_id": 1,
+    "name": {
+      "english": "Ivysaur",
+      "japanese": "フシギソウ",
+      "chinese": "妙蛙草",
+      "french": "Herbizarre"
+    },
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "base": {
+      "HP": 60,
+      "Attack": 62,
+      "Defense": 63,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
+      "Speed": 60
+    }
+  },
+  {
+    "id": 3,
+    "first_version_id": 3,
+    "third_version_id": 2,
+    "name": {
+      "english": "Charmeleon",
+      "japanese": "リザード",
+      "chinese": "火恐龙",
+      "french": "Reptincel"
+    },
+    "type": [
+      "Fire"
+    ],
+    "base": {
+      "HP": 58,
+      "Attack": 64,
+      "Defense": 58,
+      "Sp. Attack": 80,
+      "Sp. Defense": 65,
+      "Speed": 80
+    }
+  },
+  {
+    "id": 8,
+    "first_version_id": 4,
+    "third_version_id": 3,
+    "name": {
+      "english": "Wartortle",
+      "japanese": "カメール",
+      "chinese": "卡咪龟",
+      "french": "Carabaffe"
+    },
+    "type": [
+      "Water"
+    ],
+    "base": {
+      "HP": 59,
+      "Attack": 63,
+      "Defense": 80,
+      "Sp. Attack": 65,
+      "Sp. Defense": 80,
+      "Speed": 58
+    }
+  }
+]
